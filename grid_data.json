@@ -1,0 +1,32 @@
+[
+    {
+        "type": "1",
+        "item": "1478340",
+        "ticket1": "28 Black Natural",
+        "ticket2": "Energy Drink Regular",
+        "uom": "250ML",
+        "costTtAmt": 0.74,
+        "sellAmt": 2.8066,
+        "fifthMargin": 69.73,
+        "rangedStoreCount": 0,
+        "parent": "12444"
+      },
+      {
+        "type": "1",
+        "item": "1478362",
+        "ticket1": "28 Black Natural",
+        "ticket2": "Energy Drink Sugar Free",
+        "uom": "250ML",
+        "costTtAmt": 1.35,
+        "sellAmt": 2.8066,
+        "fifthMargin": 44.79,
+        "rangedStoreCount": 0,
+        "parent": "12444"
+      },
+      {
+        "type": "0",
+        "item": "12444",
+        "ticket1": "28 Black Energy 250ml",
+        "displayOrder": "20"
+       }
+       ]
